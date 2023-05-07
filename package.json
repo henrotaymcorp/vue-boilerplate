@@ -2,7 +2,6 @@
   "name": "@henrotaymcorp/vue-boilerplate",
   "description": "Boilerplate to start a vue 3 package easily.",
   "version": "0.0.1",
-  "type": "module",
   "files": [
     "dist"
   ],

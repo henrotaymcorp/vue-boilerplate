@@ -1,5 +1,11 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.1.4
+
+### Patch Changes
+
+- 07a2ab8: Scaffolding errors. (Mustache is unable to interpolate a variable containing .)
+
 ## 0.1.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.1.3
+
+### Patch Changes
+
+- 099472a: Forgot to add stubs to npm
+
 ## 0.1.2
 
 ### Patch Changes

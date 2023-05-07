@@ -1,2 +1,3 @@
-// Silence is golden 🤫
-export default {};
+#!/usr/bin/env node
+
+export { default as useScaffolding } from "./useScaffolding";

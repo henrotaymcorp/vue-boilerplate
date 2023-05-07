@@ -3,7 +3,8 @@
   "description": "Boilerplate to start a vue 3 package easily.",
   "version": "0.1.1",
   "files": [
-    "dist"
+    "dist",
+    "stubs"
   ],
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",

@@ -1,27 +1,16 @@
 # Typescript vue 3 package boilerplate 🔥
-
-## Initialization
-```shell
-./cli bootstrap
-```
+Boilerplate to start a vue 3 package easily.
 
 ## Usage
-### Start dev server
 ```shell
-./cli start
+npx @henrotaymcorp/vue-boilerplate@latest
 ```
 
-### Stop dev server
+## Development
 ```shell
-./cli stop
-```
-
-### Yarn
-```shell
-./cli yarn install
-```
-
-### Publish versions
-```shell
-./cli version patch
+./cli bootstrap #bootstrap project
+./cli yarn install #install dependencies
+./cli start #start project
+./cli stop #stop project
+./cli restart  #restart project
 ```

@@ -1,5 +1,11 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.1.2
+
+### Patch Changes
+
+- bb1d236: Messed up package.json type.
+
 ## 0.1.1
 
 ### Patch Changes

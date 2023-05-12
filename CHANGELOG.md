@@ -1,5 +1,15 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.2.0
+
+### Minor Changes
+
+- 48b2195: Updating scaffolding to handle css file.
+
+### Patch Changes
+
+- 27acfde: No need to run publish workflow when pushing to main.
+
 ## 0.1.4
 
 ### Patch Changes

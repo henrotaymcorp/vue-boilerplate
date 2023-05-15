@@ -1,5 +1,11 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.2.1
+
+### Patch Changes
+
+- 141611a: Fixing CI build (release running only when linter was successfull on main branch).
+
 ## 0.2.0
 
 ### Minor Changes

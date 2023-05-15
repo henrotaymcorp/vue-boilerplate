@@ -26,5 +26,5 @@
 </template>
 
 <script setup lang="ts">
-// import lib from "./lib";
+import "./lib"; // Modify this import to match your needs.
 </script>

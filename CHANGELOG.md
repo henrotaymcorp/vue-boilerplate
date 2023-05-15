@@ -1,5 +1,11 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.2.2
+
+### Patch Changes
+
+- ca19794: Messed up npm token
+
 ## 0.2.1
 
 ### Patch Changes

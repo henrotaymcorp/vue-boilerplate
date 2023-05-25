@@ -1,5 +1,13 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.2.3
+
+### Patch Changes
+
+- f0c2e61: Missing dist folder resolution
+- 5ac4084: Forgot to import lib directly in App.vue
+- f0c2e61: Stop auto injecting css.
+
 ## 0.2.2
 
 ### Patch Changes

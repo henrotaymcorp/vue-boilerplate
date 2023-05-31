@@ -1,5 +1,15 @@
 # @henrotaymcorp/vue-boilerplate
 
+## 0.4.0
+
+### Minor Changes
+
+- 8496ebe: Adding package version prompt
+
+### Patch Changes
+
+- 90d2322: Missing vitest dependency.
+
 ## 0.3.0
 
 ### Minor Changes

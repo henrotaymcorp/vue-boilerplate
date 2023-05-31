@@ -1,7 +1,7 @@
 {
   "name": "@{{{{organizationName}}}}/{{{{packageName}}}}",
   "description": "{{{{description}}}}",
-  "version": "0.0.1",
+  "version": "{{{{packageVersion}}}}",
   "type": "module",
   "files": [
     "dist"
@@ -60,7 +60,8 @@
     "vite": "^4.3.2",
     "vite-plugin-dts": "^2.3.0",
     "vite-plugin-eslint": "^1.8.1",
-    "vue-tsc": "^1.2.0"
+    "vue-tsc": "^1.2.0",
+    "vitest": "^0.31.2"
   },
   "dependencies": {
     "vue": "^3.2.47"

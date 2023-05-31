@@ -39,7 +39,8 @@
     "lint": "vue-tsc && eslint . --fix --ext .ts,.vue",
     "format": "prettier --write \"src/**/*\"",
     "validate": "yarn lint && yarn format",
-    "release": "yarn build && changeset publish"
+    "release": "yarn build && changeset publish",
+    "test": "vitest"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.1",

@@ -27,6 +27,8 @@ const useScaffolding = () => {
     lastFolderLocationName
   );
 
+  const packageVersion = usePrompt(`Package version [0.0.1]`, "0.0.1");
+
   const description = usePrompt(
     `Package description [${lastFolderLocationName}]`,
     lastFolderLocationName
@@ -45,6 +47,7 @@ const useScaffolding = () => {
   const data = {
     organizationName,
     packageName,
+    packageVersion,
     description,
     authorName,
     authorEmail,
